@@ -1,2 +1,1 @@
-# golangRepo
-"# gittutorial" 
+restart the tech journey
